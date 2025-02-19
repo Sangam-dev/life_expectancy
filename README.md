@@ -13,7 +13,7 @@ This repository contains a model that predicts life expectancy based on various 
 ## 🚀 Features
 - **Data Cleaning & Preprocessing:** Handling missing values, feature selection, and encoding categorical variables.  
 - **Exploratory Data Analysis (EDA):** Understanding data distribution, feature correlations, and assumptions.  
-- **Machine Learning Models:** Linear Regression, Random Forest Regressor  
+- **Machine Learning Models:** Random Forest Regressor  
 - **Model Evaluation:** Using R² Score, Mean Squared Error (MSE), and Mean Absolute Error (MAE).  
 - **Visualization:** Residual plots, feature importance, and performance comparison.
 
